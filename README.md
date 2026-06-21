@@ -1,0 +1,2 @@
+# asset
+simpan aset semuanya
