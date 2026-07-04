@@ -1,4 +1,4 @@
-window.currencyOptions = {
+ window.currencyOptions = {
         conversionRate: 1000,
         thousandSeparator: ".",
         locale: "id",
